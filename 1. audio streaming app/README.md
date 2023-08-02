@@ -1,23 +1,23 @@
-# Project Description
+# Описание проекта
 
-Comparison between Moscow and St. Petersburg is surrounded by myths. For instance:
-* Moscow - a metropolis subject to the strict rhythm of the workweek.
-* St. Petersburg - a cultural capital with its own tastes.
+Сравнение Москвы и Петербурга окружено мифами. Например:
+ * Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
+ * Петербург — культурная столица, со своими вкусами.
 
-In this music application, we are comparing the behavior of users from both cities.
+На данных музыкального приложения мы сравниваем поведение пользователей двух столиц.
 
-**Research Objective** - We will test three hypotheses:
-1. User activity depends on the day of the week, and it manifests differently in Moscow and St. Petersburg.
-2. On Monday mornings, different music genres prevail in Moscow compared to St. Petersburg. The same applies to Friday evenings, where different genres dominate depending on the city.
-3. Moscow and St. Petersburg prefer different music genres. Pop music is more common in Moscow, while Russian rap is more popular in St. Petersburg.
+**Цель исследования** — проверим три гипотезы:
+1. Активность пользователей зависит от дня недели. Причём в Москве и Петербурге это проявляется по-разному.
+2. В понедельник утром в Москве преобладают одни жанры, а в Петербурге — другие. Так же и вечером пятницы преобладают разные жанры — в зависимости от города. 
+3. Москва и Петербург предпочитают разные жанры музыки. В Москве чаще слушают поп-музыку, в Петербурге — русский рэп.
 
-**Research Process**
+**Ход исследования**
 
-Nothing is known about the data quality. Therefore, before testing the hypotheses, we need to conduct a data overview.
+О качестве данных ничего не известно. Поэтому перед проверкой гипотез понадобится обзор данных. 
 
-You will check the data for errors and assess their impact on the study. Subsequently, during the data preprocessing stage, you will look for ways to rectify the most critical data errors.
-
-The study will proceed through three stages:
-1. Data overview.
-2. Data preprocessing.
-3. Hypothesis testing.
+Вы проверите данные на ошибки и оцените их влияние на исследование. Затем, на этапе предобработки вы поищете возможность исправить самые критичные ошибки данных.
+ 
+Таким образом, исследование пройдёт в три этапа:
+ 1. Обзор данных.
+ 2. Предобработка данных.
+ 3. Проверка гипотез.
