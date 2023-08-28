@@ -2,7 +2,7 @@
 <p align="center"> Проекты Data Science </p align="center">
 
 
-| **Проект** | **Тип исследования** | **Библиотеки** |
+| **Проект** | **Описание исследования** | **Библиотеки** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Музыкальное приложение](https://github.com/VSXV/Data-Science-Projects/blob/main/1.%20audio%20streaming%20app/audio%20streaming%20app.ipynb) | Сравнение Москвы и Петербурга окружено мифами. Например: Москва — мегаполис, подчинённый жёсткому ритму рабочей недели; Петербург — культурная столица, со своими вкусами. На данных музыкального приложения мы сравниваем поведение пользователей двух столиц. |Pandas|
 | [02. Исследование надежности заемщиков](https://github.com/VSXV/Data-Science-Projects/blob/main/2.%20debt/debt.ipynb)|В данном исследовании мы не оценивали влияние на срок возврата кредита сводных данных. То есть мы не оценивали, какой процент задолженнсоти у людей имеющие одновременно определенное количество детей, семейное положение, уровень дохода и цель займа.|Pandas|
@@ -13,7 +13,7 @@
 | [07. Отток клиентов банка](https://github.com/VSXV/Data-Science-Projects/blob/main/7.%20bank%20model%20testing/bank%20model%20testing.ipynb)| Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Нам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.|Matplotlib, Numpy, Pandas, Seaborn, Sklearn|
 | [08. Выбор локации для нефтяной скважины](https://github.com/VSXV/Data-Science-Projects/blob/main/8.%20oil%20exploration/oil%20exploration.ipynb)| Построим модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируем возможную прибыль и риски техникой Bootstrap.|Matplotlib, Numpy, Pandas, Seaborn, Scipy, Sklearn, Bootstap|
 | [09. Прогнозирование оттока клиентов в сети отелей](https://github.com/VSXV/Data-Science-Projects/blob/main/9.%20hotel%20reservation/hotel%20reservation.ipynb)| Чтобы решить эту проблему, нам нужно разработать систему, которая предсказывает отказ от брони. Если модель покажет, что бронь будет отменена, то клиенту предлагается внести депозит.|Matplotlib, Numpy, Pandas, Seaborn, Sklearn|
-| [10. Классификация жанров музыки](https://github.com/VSXV/Data-Science-Projects/blob/main/10.%20music%20genre%20prediction%20Kaggle%20competition/music%20genre%20prediction.ipynb)| Музыкальный сервис расширяет работу с новыми артистами и музыкантами, в связи с чем возникла задача - правильно классифицировать новые музыкальные треки, чтобы улучшить работу рекомендательной системы.|Matplotlib, Numpy, Pandas, Seaborn, Sklearn, Phik, Catboost, Feauture engine, Imblearn|
+| [10. Классификация жанров музыки](https://github.com/VSXV/Data-Science-Projects/blob/main/10.%20music%20genre%20prediction%20Kaggle%20competition/music%20genre%20prediction.ipynb)| Музыкальный сервис расширяет работу с новыми артистами и музыкантами, в связи с чем возникла задача - правильно классифицировать новые музыкальные треки, чтобы улучшить работу рекомендательной системы. [Kaggle competition code](https://www.kaggle.com/code/vsxvmk1/music-genre-prediction).|Matplotlib, Numpy, Pandas, Seaborn, Sklearn, Phik, Catboost, Feauture engine, Imblearn|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
