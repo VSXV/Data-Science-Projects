@@ -187,3 +187,10 @@ pyrightconfig.json
 
 # data sets
 *.csv
+*.npy
+
+# catboost
+catboost_info/
+
+# models
+models/
