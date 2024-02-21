@@ -16,28 +16,35 @@ steel.data_gas — данные о продувке сплава газом;
 steel.data_temp — данные об измерениях температуры;
 steel.data_wire — данные об объёме проволочных материалов;
 steel.data_wire_time — данные о времени подачи проволочных материалов.
+
 Таблица steel.data_arc
 key — номер партии;
 BeginHeat — время начала нагрева;
 EndHeat — время окончания нагрева;
 ActivePower — значение активной мощности;
 ReactivePower — значение реактивной мощности.
+
 Таблица steel.data_bulk
 key — номер партии;
 Bulk1 … Bulk15 — объём подаваемого материала.
+
 Таблица steel.data_bulk_time
 key — номер партии;
 Bulk1 … Bulk15 — время подачи материала.
+
 Таблица steel.data_gas
 key — номер партии;
 gas — объём подаваемого газа.
+
 Таблица steel.data_temp
 key — номер партии;
 MesaureTime — время замера;
 Temperature — значение температуры.
+
 Таблица steel.data_wire
 key — номер партии;
 Wire1 … Wire15 — объём подаваемых проволочных материалов.
+
 Таблица steel.data_wire_time
 key — номер партии;
 Wire1 … Wire15 — время подачи проволочных материалов.
